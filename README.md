@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I am a fifth-semester Informatics Engineering stud
 ---
 
 ###  About Me
--  **Education**: Pursuing a Bachelor's degree in Informatics Engineering at Universitas Lampung (2022-2026).
--  **Cloud Computing Cohort**: Participant at **Bangkit Academy 2024 Batch 2**, specializing in Cloud Computing.
+-  **Education**: Pursuing a Bachelor's degree in Informatics Engineering at Universitas Lampung (2022 - Present).
+-  **Bangkit Academy Graduate**: Participated at **Bangkit Academy 2024 Batch 2**, specializing in **Cloud Computing**.
 -  **Design Background**: Former **Graphic Designer** intern at Futura Digital Printing, gaining experience in creating visual content with tools like CorelDRAW and Adobe Photoshop.
 -  **Creative Passion**: Music enthusiast who enjoys singing and playing the guitar.
 -  **Languages**: Highly proficient in English and experienced in collaborating across diverse teams.
