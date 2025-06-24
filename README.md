@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a fifth-semester Informatics Engineering stud
 ---
 
 ###  Contact
--  **Email**: aloysiusandrehm@gmail.com(mailto:aloysiusandrenhm@gmail.com)
+-  **Email**: aloysiusandrehm@gmail.com
 -  **LinkedIn**: [Aloysius Andre Nathanael Hasudungan Manullang](https://www.linkedin.com/in/aloysius-andre-n-h-m)  
 
 ---
